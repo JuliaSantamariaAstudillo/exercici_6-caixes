@@ -1,0 +1,99 @@
+.contenidor{
+  width: 600px;
+  height: 300px;
+  background: antiquewhite;
+  padding-left: 90px;
+  padding-top: 30px;
+}
+
+.caixa1{
+  background-color: #8C1C13;
+  width: auto;
+  height: auto;
+  float:left;
+  margin: 10px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.caixa2{
+  background-color: #FF8200;
+  width: auto;
+  height: auto;
+  float:left;
+  margin: 10px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.caixa3{
+  background-color: #FFC100;
+  width: auto;
+  height: auto;
+  float:left;
+  margin: 10px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.caixa4{
+  background-color: #22162B;
+  width: auto;
+  height: auto;
+  float:left;
+  margin: 10px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.caixa5{
+  background-color: #451F55;
+  width: auto;
+  height: auto;
+  float:left;
+  margin: 10px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.caixa6{
+  background-color: #724E91;
+  width: auto;
+  height: auto;
+  float:left;
+  margin: 10px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+a{
+font-family: 'Times New Roman', Times, serif;
+}
+
+p{
+  font-family: 'Times New Roman', Times, serif;
+  color: black;
+}
+
+h1{
+font-size: 20px;
+color: #A6A867;
+}
+
+h2{
+font-family: Impact, Haettenschweiler;
+font-size: 18px;
+color: antiquewhite;
+}
